@@ -1,4 +1,4 @@
-## Date created
+## Date Created
 Created on June 22nd, 2020.
 
 ## Project Title
@@ -9,12 +9,12 @@ This project contains the Bikeshare data which made use of R to explore data rel
 
 This project answers interesting questions about Bike sharing by computing descriptive statistics and includes a script that takes in raw inputs to create an interactive experience in the terminal for presenting these statistics.
 
-## Files used
+## Files Used
 Washington.csv,
 New_york_city.csv,
 Chicago.csv,
 
-## Required softwares
+## Required Softwares
 Rstudio, Jupyter notebook, A text Editor e.g. Atom
 
 ## Credits
