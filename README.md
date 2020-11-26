@@ -3,11 +3,11 @@
 ### Udacity Data R programming Nano degree - project.
 
 ## Overview
-In this project, I will explore data related to Divvy bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using Python, I will write a code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+In this project, I will explore data related to Divvy bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using R, I will write a code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ## What Software Do I Need?
 
-To complete this project, i'll require the following softwares:
+To complete this project, i will require the following softwares:
 
 • Jupyter Notebook
 
@@ -15,7 +15,7 @@ To complete this project, i'll require the following softwares:
 
 • A terminal application
 
-In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: 
+In this project, you will use data provided by Divvy, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: 
 Chicago, 
 New York City, 
 and Washington, DC.
@@ -43,13 +43,13 @@ and Washington, DC.
 ### In this project, the code is written to provide the following information:
 
 1. which month has the most bike usage?
-2. On which particularly hour, day,week or month do we have the most users?
+2. On which particularly hour, day, week or month do we have the most users?
 5. What is our most common start station?
 6. What is the most frequent trip (i.e., most frequent combination of start station and end station)?
 7. What is the overall travel time so far?
 8. What is the Average travel time so far?
 9. What are the various User Types and their Trip Durations.
-10. gender and age distribution of Users.
+10. Gender and age distribution of Users.
 
 
 ### The Files You will need the three city dataset files: 
